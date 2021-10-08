@@ -1,0 +1,7 @@
+[user]
+	email = mariomu99@gmail.com
+	name = Mario Muñoz Fuentes
+[core]
+	editor = nano
+[credential]
+	helper = store

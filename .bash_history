@@ -13,3 +13,34 @@ ls -a
 git branch
 git add .
 exit
+pwd
+ls -a
+git add .
+pwd
+git init
+git commit -am "first commit ever"
+git config --global user.email "you@example.com"
+git config --global user.email "mariomu99@gmail.com"
+git config --global user.name "Tu Nombre"
+git config --global user.name "Mario Muñoz Fuentes"
+git config --global core.editor nano
+git commit -am "first commit ever"
+git log
+git branch
+git remote add origin https://github.com/MarioMunozFuentes/myodoo.git
+git remote -v
+git push origin master
+de/Descargas
+cd/Descargas
+cd/ Descargas
+cd Descargas
+cd Descargas/
+exit
+whoami
+who
+w
+mkdir dumps
+ls
+rm first.sql
+pwd
+exit

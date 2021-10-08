@@ -1,0 +1,4 @@
+.gnupg/
+.gitlocal/
+.git-credentials
+#excluimos del push y del add a github
