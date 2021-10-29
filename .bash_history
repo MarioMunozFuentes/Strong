@@ -44,3 +44,5 @@ ls
 rm first.sql
 pwd
 exit
+ls -odoo14
+exit
