@@ -46,3 +46,20 @@ pwd
 exit
 ls -odoo14
 exit
+git add .
+git status 
+git commit -am "Primeras pinceladas de nuestra web"
+git log
+git push origin master 
+git remote -v
+git remote remove origin 
+git remote -v
+git remote add origin https://github.com/MarioMunozFuentes/Strong.git
+git remote -v
+ls -la
+git add .
+git commit -am
+git commit -am "Strong"
+git push origin master 
+history
+exit
