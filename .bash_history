@@ -63,3 +63,14 @@ git commit -am "Strong"
 git push origin master 
 history
 exit
+cd
+cd opt
+ls
+cd ..
+cd odoo/dumps/
+ls
+git add .
+git commit -am "repositorio Strong miercoles 3"
+git log
+git push origin master 
+exit
