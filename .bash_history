@@ -74,3 +74,13 @@ git commit -am "repositorio Strong miercoles 3"
 git log
 git push origin master 
 exit
+cd ..
+ls -a
+more .gitconfig 
+cat .gitignore 
+git add .
+ls
+git commit -am "Sincronizando BD Strong"
+git log
+git push origin master 
+exit
