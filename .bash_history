@@ -84,3 +84,6 @@ git commit -am "Sincronizando BD Strong"
 git log
 git push origin master 
 exit
+cd /opt/odoo/dumps/
+add .
+commit -am "relllenando word"
