@@ -87,3 +87,34 @@ exit
 cd /opt/odoo/dumps/
 add .
 commit -am "relllenando word"
+cd opt/odoo
+/opt/odoo
+cd /opt/odoo
+cd
+pw
+pwd
+mkdir img
+ls
+git add .
+git commit -am "crear carpeta img"
+git push origin master
+git push origin origin/master 
+ls 
+git commit -am "nuevo commit"
+git push origin/master 
+git push origin origin/master
+ls -la
+git pull 
+pwd
+git branch 
+git branch AsierReadme
+git branch
+git pull AsierReadme
+git branch -D AsierReadme
+git branch 
+sudo su mv /home/dammie/Escritorio/img/ /opt/odoo/
+pw
+pwd
+ls -la
+cd img
+exit
