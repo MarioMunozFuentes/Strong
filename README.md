@@ -58,4 +58,19 @@ A continuación, tenemos mostrados todos los productos y servicios que vendemos.
 ![issue tab](img/17.png)
 Como se puede observar "Pase Anual" tiene una etiqueta verde, este efecto se llama "ribbon" y es una forma de destacar el producto.
 ![issue tab](img/18.png)
-Cuando pinchamos en un producto 
+Cuando pinchamos en un producto, se nos aparece una nueva ventana, en la que podemos seleccionar la cantidad que queremos y añadirlo al carrito.
+![issue tab](img/19.png)
+Una vez agregado el producto al carrito, pinchando en este en la parte superior de la web, se nos muestra una pantalla como la siguiente, en la que podemos pagar y finalizar el pedido, o bien volver atrás y seguir comprando.
+![issue tab](img/20.png)
+Al pulsar el botón de pagar ahora debemos introducir nuestros datos, y una vez los tenemos damos a siguiente y confirmamos la compra.
+![issue tab](img/20_1.png)
+Por último confirmamos y damos a pagar.
+![issue tab](img/20_2.png)
+Al cliente se le genera un presupuesto, el cual debe firmar si está conforme, ya que es necesario para validar el pedido.
+![issue tab](img/20_3.png)
+Una vez el cliente realice el pedido, a nosotros se nos modificará el gráfico y veremos lo siguiente.
+![issue tab](img/20_4.png) 
+Todo esto hemos podido llevarlo a cabo porque previamente hemos tenido que crear una cuenta bancaria dentro de un banco, que será donde nos llegará el dinero de los clientes.
+![issue tab](img/20_5.png)
+Tambien hemos tenido que habilitar los métodos de pago mediante los cuales se va a poder realizar el pago, en nuestro caso han sido transferencia bancaria y tarjeta.
+![issue tab](img/20_6.png)
