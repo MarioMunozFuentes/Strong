@@ -74,3 +74,70 @@ Todo esto hemos podido llevarlo a cabo porque previamente hemos tenido que crear
 ![issue tab](img/20_5.png)
 Tambien hemos tenido que habilitar los métodos de pago mediante los cuales se va a poder realizar el pago, en nuestro caso han sido transferencia bancaria y tarjeta.
 ![issue tab](img/20_6.png)
+El siguiente apartado al del carrito es la lista de deseos, donde podemos guardar productos para comprarlos en un futuro.
+![issue tab](img/21.png)
+_____________________________
+En ultimo luga encontramos la pestaña de eventos, en la cual podemos ver los eventos de nuestro gymnasio.
+Podemos seleccionar los próximos eventos, los pasados o los de un tiempo concreto.
+![issue tab](img/22.png)
+Ejemplo de un evento, en el cual podemos registrarnos de forma gratuita.
+Hemos incluido un bloqued de cuenta atras.
+![issue tab](img/23.png)
+Este otro evento, está formado por un bloque "number", después un bloque "title" y por último un bloque "features".
+En estos bloques se indican las carasterísticas de nuestra aplicación.
+Este evento, a su vez, cuenta con un submenú para navegar entre introduccón, ubicación y registro.
+![issue tab](img/24.png)
+_____________________________
+_____________________________
+PROYECTOS Y TABLEROS:
+PROYECTOS:
+Instalamos el módulo de proyectos y también el de tableros.
+![issue tab](img/25.png)
+A continuación, vamos al apartado proyecto, y creamos un nuevo proyecto y le damos un nombre.
+![issue tab](img/26.png)
+Seguidamente añadimos un orden y ponemos una descripción. En la tercera imagen podemos ver como se visualiza la tarea.
+![issue tab](img/27.png)
+A continuación, podemos ver o crear una actividad y a seleccionar una hora para ella. También planificamos más actividades.
+![issue tab](img/28.png)
+Creamos diferentes proyectos y vemos como quedan, ya que se pueden organizar por la fase en la que se encuentra cada uno de ellos.
+![issue tab](img/29.png)
+TABLEROS:
+Una vez instalado el módulo, unicamente tenemos que dar a favoritos desde la sección y añadir a tableros y ya nos aparecerá en este apartado.
+![issue tab](img/30.png)
+Una vez añadidos, nos aparece el tablero.
+![issue tab](img/31.png)
+_____________________________
+_____________________________
+GESTIÓN DE TAREAS DEL DEPARTAMENTO DE ADMINISTRACIÓN:
+Este apartado se realiza con el módulo de firmas, el cual intentamos usar pero no nos deja.
+![issue tab](img/32.png)
+_____________________________
+_____________________________
+PRODUCTOS O SERVICIOS.
+Los productos y servicios que ofrece nuestro gimnasio, son todos los que podemos encontrar en el carrito de compra, ya mencionados y vistos en una foto.
+Para añadir los diferentes productos hemos llevado a cabo los siguientes pasos.
+![issue tab](img/33.png)
+Una vez dentro del apartado de productos, nos aparece la opción de crear y también podemos ver lo que ya tenemos creados.
+![issue tab](img/34.png)
+Una vez que damos a crear, es muy sencillo, únicamente tenemos la opción de crear y también podemos ver los que ya tenemos creados.
+![issue tab](img/35.png)
+Una vez que damos a crear, únicamente tenemos que rellenar los campos e introducir una imagen si lo deseamos.
+_____________________________
+_____________________________
+AGENDA O COLENDARIO:
+
+_____________________________
+_____________________________
+EVENTOS:
+Debemos instalar el módulo de eventos, y una vez instalado creamos uno, dándole un nombre y rellenando todos los datos.
+![issue tab](img/36.png)
+A continuación, añadimos un asistente al evento, al cual enviamos un correo con el ticket para poder acceder.
+![issue tab](img/37.png)
+![issue tab](img/38.png)
+A continuación, podemos ver los diferentes eventos que tiene nuestra empresa, con las fechas en las que se realizarán o se han realizado y las personas que han confirmado su asistencia.
+![issue tab](img/38_1.png)
+(En la web aparece como hemos mostrado en la explicación principal).
+
+
+
+
