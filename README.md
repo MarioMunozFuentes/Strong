@@ -184,3 +184,11 @@ Nuestra versión no permite generar oportunidades en CRM al rellenar un formular
 
 
 
+
+CAMBIO DE TEMA:
+Para cambiar el tema de la aplicación, en primer lugar tenemos que buscar en alguna web algún tema que nos guste y vaya bien con lo que nosotros queremos.
+Una vez tenemos el tema descargado, desde nuestro sitio web, accedemos a ajustes y pinchamos donde pone "Pick a Theme", y nos llevará a elegir los temas que tenemos.
+En nuestro caso dejamos el tema por defecto, ya que el que habíamos elegido daba problemas al implantarlo.
+![issue tab](img/tema1.png)
+A continuación se muestra como se veía el tema que habíamos elegido.
+![issue tab](img/tema2.png)
