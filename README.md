@@ -9,6 +9,19 @@ Se trata de la página web de una empresa de gimnasios, la cual se llama Strong.
 * Lo primero que hicimos, fue una seleccion de tema entre todos los posibles, centrándonos en el que más se adaptase al estilo que queríamos para nuestra web. Elegimos uno, pero no podíamos implementarlo, ya que daba error, por lo que tuvimos que dejar el que venía por defecto.
 
 
+Para cambiar el tema de la aplicación hay que seguir los siguientes pasos, en primer lugar tenemos que buscar en alguna web algún tema que nos guste y vaya bien con lo que nosotros queremos.
+Una vez tenemos el tema descargado, desde nuestro sitio web, accedemos a ajustes y pinchamos donde pone "Pick a Theme", y nos llevará a elegir los temas que tenemos.
+
+![issue tab](img/tema1.png)
+A continuación se muestra como se veía el tema que habíamos elegido.
+![issue tab](img/tema2.png)
+
+
+
+
+
+
+
 
 La página principal de nuestra web es asi:
 * El número 1, muestra el nombre de nuestra web.
@@ -184,11 +197,3 @@ Nuestra versión no permite generar oportunidades en CRM al rellenar un formular
 
 
 
-
-CAMBIO DE TEMA:
-Para cambiar el tema de la aplicación, en primer lugar tenemos que buscar en alguna web algún tema que nos guste y vaya bien con lo que nosotros queremos.
-Una vez tenemos el tema descargado, desde nuestro sitio web, accedemos a ajustes y pinchamos donde pone "Pick a Theme", y nos llevará a elegir los temas que tenemos.
-En nuestro caso dejamos el tema por defecto, ya que el que habíamos elegido daba problemas al implantarlo.
-![issue tab](img/tema1.png)
-A continuación se muestra como se veía el tema que habíamos elegido.
-![issue tab](img/tema2.png)
