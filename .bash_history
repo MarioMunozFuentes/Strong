@@ -118,3 +118,41 @@ pwd
 ls -la
 cd img
 exit
+git add .
+git commit -am "carpeta img con imagenes"
+git push origin master 
+ls -la
+git add .
+git commit -am "readme con primera imagen"
+git push origin master 
+git add .
+git commit -am "haciendo readme"
+git push origin master 
+git add .
+git commit -am "readme hasta apartado comprar"
+git push origin master 
+git add .
+git commit -am "readme apartado comprar acabado"
+git add .
+git commit -am "readme apartado comprar acabado"
+git add .
+git commit -am "readme apartado comprar acabado"
+git push origin master 
+git add .
+git commit -am "readme hasta eventos"
+git push origin master 
+git add .
+git commit -am "readme casi finalizado"
+git add .
+git commit -am "readme casi finalizado"
+git push origin master 
+git add .
+git commit -am "readme casi finalizado cambio de tema"
+git push origin master 
+git add .
+git commit -am "cambio de tema implementado"
+git push origin master 
+sudo passwd odoo 
+exit
+git add .
+exit
