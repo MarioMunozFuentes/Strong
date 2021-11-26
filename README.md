@@ -206,76 +206,122 @@ _____________________________
 ## **3. GESTIÓN DE TAREAS DEL DEPARTAMENTO DE ADMINISTRACIÓN:**
 
 Este apartado se realiza con el módulo de firmas, el cual intentamos usar pero no nos deja.
+
 ![issue tab](img/32.png)
 _____________________________
 _____________________________
-PRODUCTOS O SERVICIOS.
+
+## **4. PRODUCTOS O SERVICIOS:**
+
 Los productos y servicios que ofrece nuestro gimnasio, son todos los que podemos encontrar en el carrito de compra, ya mencionados y vistos en una foto.
 Para añadir los diferentes productos hemos llevado a cabo los siguientes pasos.
+
 ![issue tab](img/33.png)
+
 Una vez dentro del apartado de productos, nos aparece la opción de crear y también podemos ver lo que ya tenemos creados.
+
 ![issue tab](img/34.png)
+
 Una vez que damos a crear, es muy sencillo, únicamente tenemos la opción de crear y también podemos ver los que ya tenemos creados.
+
 ![issue tab](img/35.png)
+
 Una vez que damos a crear, únicamente tenemos que rellenar los campos e introducir una imagen si lo deseamos.
 _____________________________
 _____________________________
-AGENDA O COLENDARIO:
+
+## **5. AGENDA O CALENDARIO Y EVENTOS:**
+
+### **5.1. AGENDA O CALENDARIO:**
+
+Instalamos el módulo, luego nos aparece un calendario en el cual podemos seleccionar un día y crear una reunión o un nuevo evento.
+También nos aparece de color los días que tenemos planificado una reunión.
+
+![issue tab](img/46.png)
+_____________________________
+
+### **5.2. EVENTOS PARA CAMPAÑAS DE MARKETING:**
+
+Debemos instalar el módulo de eventos, y una vez instalado creamos uno, dándole un nombre y rellenando todos los datos.
+
+![issue tab](img/36.png)
+
+A continuación, añadimos un asistente al evento, al cual enviamos un correo con el ticket para poder acceder.
+
+![issue tab](img/37.png)
+
+![issue tab](img/38.png)
+
+A continuación, podemos ver los diferentes eventos que tiene nuestra empresa, con las fechas en las que se realizarán o se han realizado y las personas que han confirmado su asistencia.
+
+![issue tab](img/38_1.png)
+
+(En la web aparece como hemos mostrado en la explicación principal).
+
+_____________________________
+
+### **5.3. ENCUESTAS:**
+
+Instalamos el módulo de encuestas.
+
+![issue tab](img/39.png)
+
+Tras tenerlo instalado, vamos a crear una encuesta, dentro de la cual haremos varias preguntas.
+Se puede elegir el formato de respuesta.
+
+![issue tab](img/40.png)
+
+Escrinimos las preguntas que van a formar parte de nuestra encuesta y la guardamos.
+A continuación, podemos ver como ha quedado nuestra encuesta.
+
+![issue tab](img/41.png)
+
+Si le damos a realizar encuesta vemos lo siguiente.
+
+![issue tab](img/42.png)
 
 _____________________________
 _____________________________
-EVENTOS:
-Debemos instalar el módulo de eventos, y una vez instalado creamos uno, dándole un nombre y rellenando todos los datos.
-![issue tab](img/36.png)
-A continuación, añadimos un asistente al evento, al cual enviamos un correo con el ticket para poder acceder.
-![issue tab](img/37.png)
-![issue tab](img/38.png)
-A continuación, podemos ver los diferentes eventos que tiene nuestra empresa, con las fechas en las que se realizarán o se han realizado y las personas que han confirmado su asistencia.
-![issue tab](img/38_1.png)
-(En la web aparece como hemos mostrado en la explicación principal).
-_____________________________
-_____________________________
-ENCUESTAS:
-Instalamos el módulo de encuestas.
-![issue tab](img/39.png)
-Tras tenerlo instalado, vamos a crear una encuesta, dentro de la cual haremos varias preguntas.
-Se puede elegir el formato de respuesta.
-![issue tab](img/40.png)
-Escrinimos las preguntas que van a formar parte de nuestra encuesta y la guardamos.
-A continuación, podemos ver como ha quedado nuestra encuesta.
-![issue tab](img/41.png)
-Si le damos a realizar encuesta vemos lo siguiente.
-![issue tab](img/42.png)
-_____________________________
-_____________________________
-CHAT INTERNO:
+
+## **6. CHAT INTERNO:**
+
 Instalamos el módulo de chat interno y creamos un nuevo chat, mediante el cual podrán ponerse en contacto los clientes con nosotros, para resolver cualquier duda que tengan.
 Nosotros podremos ver las conversaciones dentro del apartado conversaciones.
+
 ![issue tab](img/43.png)
 _____________________________
 _____________________________
-CONTACTOS:
+
+## **7. CONTACTOS:**
+
 Desde el módulo de contactos, podemos crear a las diferentes personas que forman parte de nuestra empresa, a otras empresas, a clientes...
+
 ![issue tab](img/44.png)
+
 Dentro de cada cada contacto, tenemos un menú en el cual podemos ver gráficamente toda la información.
+
 ![issue tab](img/45.png)
+
 _____________________________
 _____________________________
-AGENDA O CALENDARIO:
-Instalamos el módulo, luego nos aparece un calendario en el cual podemos seleccionar un día y crear una reunión o un nuevo evento.
-También nos aparece de color los días que tenemos planificado una reunión.
-![issue tab](img/46.png)
-_____________________________
-_____________________________
-CRM:
+
+## **8. CRM:**
+
 Instalamos el módulo de CRM, que sirve para hacer un seguimiento de los clientes y de las oportunidades próximas.
+
 ![issue tab](img/47.png)
+
 Al realizar un formulario, a través de este módulo, a nosotros nos llega una notificación para ponernos en contacto con el cliente.
+
 ![issue tab](img/48.png)
-La creación de "pipelines" se asemejan a la creación de nuevos proyectos. Son una creación de oportunidades las cuales se les puede asignar a cada uno de los trabajadores de la empresa, para que cada uno gestione su oportunidad de forma personal.
-Se pueden planificar actividades dentro de cada apartado dándole un "estado", nosotros hemos definido 4 diferentes(nuevo, calificado, propuesta y ganado), dependiendo en que estado esté esa oportunidad se tratará de una manera u otra.
+
+La creación de **"pipelines"** se asemejan a la creación de nuevos proyectos. Son una creación de oportunidades las cuales se les puede asignar a cada uno de los trabajadores de la empresa, para que cada uno gestione su oportunidad de forma personal.
+
+Se pueden planificar actividades dentro de cada apartado dándole un **"estado"**, nosotros hemos definido 4 diferentes (nuevo, calificado, propuesta y ganado), dependiendo en que estado esté esa oportunidad se tratará de una manera u otra.
+
 Se pueden concretar reuniones desde este módulo, ya que va ligado al módulo de calendario.
 Nuestra versión no permite generar oportunidades en CRM al rellenar un formulario desde nuestro sitio web.
+
 ![issue tab](img/49.png)
 
 
