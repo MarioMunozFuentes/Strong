@@ -1,8 +1,3 @@
-# ODOO ASIER ARANDA Y MARIO MUÑOZ
-
-# **STRONG**
-
-
 ## **9. Implanta los mecanismos de control de versiones y copia de seguridad del sistema.**
 
 ### **9.0. Desde nuestro ODOO accedemos a "MANAGE DATABASE" y pulsamos el botón "BACKUP"**
