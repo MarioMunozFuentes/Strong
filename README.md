@@ -59,8 +59,11 @@
 
 ![issue tap](img/CREAR_REPOSITORIO/10_1.png)
 
+
 Aquí veréis la rama AsierOdoo que es donde hemos tratado los backup del punto 8
+
 ![issue tap](img/CREAR_REPOSITORIO/10_2.png)
+
 
 ![issue tap](img/CREAR_REPOSITORIO/10_1.png)
 
