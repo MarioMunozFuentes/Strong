@@ -3,7 +3,6 @@
 # **STRONG**
 
 
-9. Implanta los mecanismos de control de versiones y copia de seguridad del sistema.
 
     9.1. hacer backup y encriptar
     ![issue tap](img/CREAR_REPOSITORIO/9_1.png)
