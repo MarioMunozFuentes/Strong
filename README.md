@@ -1,3 +1,6 @@
+# **ODOO ASIER ARANDA Y MARIO MUÑOZ**
+
+# --------------- **STRONG** ----------------
 
 Para comenzar, vamos a hacer uan breve explicacion de nuestra pagina web.
 Se trata de la página web de una empresa de gimnasios, la cual se llama Strong.....
