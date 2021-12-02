@@ -403,10 +403,5 @@ Comprobamos que tenemos en nuestra rama **"master"** los **"commits"** de la ram
 
 ![issue tap](img/10_6.png)
 
-___________________________________________________________________
-___________________________________________________________________
 
-Por último, mostramos la grafica de las ramas de nuestro proyecto.
-
-![issue tap](img/grafica.png)
 
