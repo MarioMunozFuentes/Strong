@@ -3,7 +3,7 @@
 # --------------- **STRONG** ----------------
 
 Para comenzar, vamos a hacer una breve explicación de nuestra pagina web.
-Se trata de la página web de una empresa de gimnasios, la cual se llama Strong.....
+Se trata de la página web de una empresa de gimnasios, la cual se llama ***Strong***
 
 ## **1. EXPLICACIÓN DE LA PÁGINA WEB:**
 
