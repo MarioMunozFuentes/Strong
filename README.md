@@ -2,12 +2,12 @@
 
 # --------------- **STRONG** ----------------
 
-Para comenzar, vamos a hacer uan breve explicacion de nuestra pagina web.
+Para comenzar, vamos a hacer una breve explicación de nuestra pagina web.
 Se trata de la página web de una empresa de gimnasios, la cual se llama Strong.....
 
 ## **1. EXPLICACIÓN DE LA PÁGINA WEB:**
 
-Lo primero que hicimos, fue una seleccion de tema entre todos los posibles, centrándonos en el que más se adaptase al estilo que queríamos para nuestra web. Elegimos uno, pero no podíamos implementarlo, ya que daba error, por lo que tuvimos que dejar el que venía por defecto.
+Lo primero que hicimos, fue una selección de tema entre todos los posibles, centrándonos en el que más se adaptase al estilo que queríamos para nuestra web. Elegimos uno, pero no podíamos implementarlo, ya que daba error, por lo que tuvimos que dejar el que venía por defecto.
 
 ## * Cambiar tema:
 
@@ -16,7 +16,7 @@ Una vez tenemos el tema descargado, desde nuestro sitio web, accedemos a ajustes
 
 ![issue tab](img/tema1.png)
 
-A continuación se muestra como se veía el tema que habíamos elegido.
+A continuación, se muestra como se veía el tema que habíamos elegido.
 
 ![issue tab](img/tema2.png)
 
@@ -138,7 +138,7 @@ Todo esto hemos podido llevarlo a cabo porque previamente hemos tenido que crear
 
 ![issue tab](img/20_5.png)
 
-Tambien hemos tenido que habilitar los métodos de pago mediante los cuales se va a poder realizar el pago, en nuestro caso han sido transferencia bancaria y tarjeta.
+También hemos tenido que habilitar los métodos de pago mediante los cuales se va a poder realizar el pago, en nuestro caso han sido transferencia bancaria y tarjeta.
 
 ![issue tab](img/20_6.png)
 
@@ -149,13 +149,13 @@ _____________________________
 
 ## * Eventos:
 
-En ultimo luga encontramos la pestaña de eventos, en la cual podemos ver los eventos de nuestro gymnasio.
+En ultimo lugar, encontramos la pestaña de eventos, en la cual podemos ver los eventos de nuestro gimnasio.
 Podemos seleccionar los próximos eventos, los pasados o los de un tiempo concreto.
 
 ![issue tab](img/22.png)
 
 Ejemplo de un evento, en el cual podemos registrarnos de forma gratuita.
-Hemos incluido un bloqued de cuenta atras.
+Hemos incluido un bloque de cuenta atras.
 
 ![issue tab](img/23.png)
 Este otro evento, está formado por un bloque **"number"**, después un bloque **"title"** y por último un bloque **"features"**.
@@ -271,7 +271,7 @@ Se puede elegir el formato de respuesta.
 
 ![issue tab](img/40.png)
 
-Escrinimos las preguntas que van a formar parte de nuestra encuesta y la guardamos.
+Escribimos las preguntas que van a formar parte de nuestra encuesta y la guardamos.
 A continuación, podemos ver como ha quedado nuestra encuesta.
 
 ![issue tab](img/41.png)
@@ -382,7 +382,7 @@ ___________________________________________________________________
 ### **10.1. Una vez soy colaborador haré un git clone "URL" del proyecto Strong**    
 ![issue tap](img/CREAR_REPOSITORIO/1_0_1.png)
 
-### **10.2. Mario trabajará sobre Rama "MASTER" y yo Asier sobre la Rama "AsierReadme" teniendo cada uno nuestro README**
+### **10.2. Mario trabajará sobre Rama "MASTER" y Asier sobre la Rama "AsierReadme" teniendo cada uno nuestro README**
 
 ![issue tap](img/CREAR_REPOSITORIO/10_1.png)
 
@@ -406,7 +406,7 @@ Comprobamos que tenemos en nuestra rama **"master"** los **"commits"** de la ram
 ___________________________________________________________________
 ___________________________________________________________________
 
-Por último, mostramos la grafica de las ramas de nuestro proyecto.
+Por último, mostramos la gráfica de las ramas de nuestro proyecto.
 
 ![issue tap](img/grafica.png)
 
