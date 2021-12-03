@@ -11,7 +11,7 @@ Lo primero que hicimos, fue una selección de tema entre todos los posibles, cen
 
 ## * Cambiar tema:
 
-Para cambiar el tema de la aplicación hay que seguir los siguientes pasos, en primer lugar tenemos que buscar en alguna web algún tema que nos guste y vaya bien con lo que nosotros queremos.
+Para cambiar el tema de la aplicación hay que seguir los siguientes pasos, en primer lugar, tenemos que buscar en alguna web algún tema que nos guste y vaya bien con lo que nosotros queremos.
 Una vez tenemos el tema descargado, desde nuestro sitio web, accedemos a ajustes y pinchamos donde pone **"Pick a Theme"**, y nos llevará a elegir los temas que tenemos.
 
 ![issue tab](img/tema1.png)
@@ -29,13 +29,13 @@ La página principal de nuestra web es asi:
 
 ![issue tab](img/1.png)
 
-Enlaces directos hacia las secciones de nuestra web, las mismas que se muestran en la barra de navegación.
+**Enlaces directos** hacia las secciones de nuestra web, las mismas que se muestran en la barra de navegación.
 
 ![issue tab](img/2.png)
 
 ## * Añadir botón:
 Se muestran las distintas ofertas de cuotas en un menú de 3 columnas:
-Hemos diseñado los botones de **"Comprar"** adaptados al tema de nuestra web, lo hemos hecho mediante HTML, CSS y JavaScript.
+Hemos diseñado los botones de **"Comprar"** adaptados al tema de nuestra web, lo hemos hecho mediante **HTML, CSS y JavaScript**.
 
 ![issue tab](img/3.png)
 
@@ -70,12 +70,12 @@ En el apartado de recetas, en primer lugar hemos hecho un pequeño **"collage"**
 ![issue tab](img/10.png)
 
 
-En segundo lugar, tenemos una lista, en la que hemos explicado una especie de menú.
+En segundo lugar, tenemos una **lista**, en la que hemos explicado una especie de menú.
 
 ![issue tab](img/11.png)
 
 Por último, hemos hecho un apartado de nutricionista online, el cual tiene un botón que nos dirige hacia un formulario de contacto.
-De fondo tenemos una imagen con el efecto **"parallax"**.
+De fondo, tenemos una imagen con el efecto **"parallax"**.
 
 ![issue tab](img/12.png)
 
