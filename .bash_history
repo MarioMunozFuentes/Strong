@@ -87,3 +87,37 @@ exit
 cd /opt/odoo/dumps/
 add .
 commit -am "relllenando word"
+cd /opt/odoo/dumps/
+ls
+git status
+git add .
+git commit -am "subir database encriptada"
+git log
+git branch asierOdoo
+git status
+git branch
+checkout asierOdoo
+git checkout asierOdoo
+git push
+
+git push
+whoami
+git log
+git config --global user.name "asier aranda"
+git config --global user.email "asier.aranda.malagon@gmail.com"
+pwd
+sudo nano .bashrc
+exit
+./odoo14/odoo-bin scaffold lista_tareas odoo14-custom-addons/
+odoo14/odoo-bin scaffold lista_tareas odoo14-custom-addons/
+cd odoo14-custom-addons/
+ls
+cd lista_tareas/
+ls
+git log
+git remote -v
+.git/config
+cd ..
+.git/config
+sudo .git/config
+exit
